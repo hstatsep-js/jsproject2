@@ -1,1 +1,1 @@
-# web
+# JS Project 2
